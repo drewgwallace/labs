@@ -187,7 +187,7 @@ following along there will only be one task running in the service).
 
   ```
   //Run the following docker service ps command to see which node
-  the service task is running on.
+    the service task is running on.
 
   node1$ docker service ps sec-test
   ID          NAME        IMAGE         NODE    DESIRED STATE  CURRENT STATE   
